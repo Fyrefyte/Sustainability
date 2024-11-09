@@ -34,8 +34,11 @@
   },
   "name":"Sustainabillity",
   "resources":[
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_tl_terrain","path":"sprites/spr_tl_terrain/spr_tl_terrain.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
+    {"id":{"name":"tl_terrain","path":"tilesets/tl_terrain/tl_terrain.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
