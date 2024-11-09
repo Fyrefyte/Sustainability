@@ -2,7 +2,7 @@
 global.energy += 0.1;
 
 // Polute
-global.temp += 0.1;
+global.temp += 0.001;
 
 // Die
 life -= 1;
