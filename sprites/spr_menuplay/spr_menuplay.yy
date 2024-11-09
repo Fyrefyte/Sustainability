@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_coal_plant",
+  "%Name":"spr_menuplay",
   "bboxMode":0,
   "bbox_bottom":31,
-  "bbox_left":4,
-  "bbox_right":27,
-  "bbox_top":11,
+  "bbox_left":0,
+  "bbox_right":63,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"20fcb8f0-69e3-46d2-a997-5920dba97802","name":"20fcb8f0-69e3-46d2-a997-5920dba97802","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"8cf246e7-1010-4abd-b227-166894dc2705","name":"8cf246e7-1010-4abd-b227-166894dc2705","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"978fbfeb-6c91-46dd-9561-620854c51e66","blendMode":0,"displayName":"default","isLocked":false,"name":"978fbfeb-6c91-46dd-9561-620854c51e66","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"99b16ee6-79c2-44fd-a17d-4b4e0310d31f","blendMode":0,"displayName":"default","isLocked":false,"name":"99b16ee6-79c2-44fd-a17d-4b4e0310d31f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_coal_plant",
+  "name":"spr_menuplay",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_coal_plant",
+    "%Name":"spr_menuplay",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_coal_plant",
+    "name":"spr_menuplay",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"20fcb8f0-69e3-46d2-a997-5920dba97802","path":"sprites/spr_coal_plant/spr_coal_plant.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"135b1915-5beb-4330-a8c2-9923cdeaa31f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8cf246e7-1010-4abd-b227-166894dc2705","path":"sprites/spr_menuplay/spr_menuplay.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"10f35dd3-9c55-4087-8a70-f89f9eea7e59","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":32,
+  "width":64,
 }
