@@ -40,6 +40,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_building0","path":"sprites/spr_building0/spr_building0.yy",},},
     {"id":{"name":"spr_coal_plant","path":"sprites/spr_coal_plant/spr_coal_plant.yy",},},
+    {"id":{"name":"spr_tI_windmill","path":"sprites/spr_tI_windmill/spr_tI_windmill.yy",},},
     {"id":{"name":"spr_tl_elevation","path":"sprites/spr_tl_elevation/spr_tl_elevation.yy",},},
     {"id":{"name":"spr_tl_terrain","path":"sprites/spr_tl_terrain/spr_tl_terrain.yy",},},
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},},
