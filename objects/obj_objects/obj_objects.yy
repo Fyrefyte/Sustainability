@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_destruction",
+  "%Name":"obj_objects",
   "eventList":[],
   "managed":true,
-  "name":"obj_destruction",
+  "name":"obj_objects",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_objects",
-    "path":"objects/obj_objects/obj_objects.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_destruction",
-    "path":"sprites/spr_destruction/spr_destruction.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

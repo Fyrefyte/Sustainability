@@ -5,5 +5,5 @@ global.energy += 0.1;
 global.temp += 0.001;
 
 // Die
-life -= 1;
+life -= global.temp/60;
 if (life <= 0) instance_destroy();

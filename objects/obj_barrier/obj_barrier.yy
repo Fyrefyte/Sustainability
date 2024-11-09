@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
+  "%Name":"obj_barrier",
   "eventList":[],
   "managed":true,
-  "name":"Object4",
+  "name":"obj_barrier",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_objects",
+    "path":"objects/obj_objects/obj_objects.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_barrier",
+    "path":"sprites/spr_barrier/spr_barrier.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
